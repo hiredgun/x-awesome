@@ -6,6 +6,10 @@ List of cool resources related to web development and programming
 
 - [AMP.DEV](https://amp.dev)
 
+## Web design
+
+- [Transparent textures](https://www.transparenttextures.com/)
+
 ## Typography
 
 - [Fontpair](https://fontpair.co/featured) - Typography Resources
