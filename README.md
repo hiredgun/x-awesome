@@ -38,3 +38,6 @@ List of cool resources related to web development and programming
 - [MyDevice.io](https://www.mydevice.io/)
 - [Spark joy](https://github.com/sw-yx/spark-joy#graphics-and-svg-illustrations)
 - [Codeimage - beautify your code screenshots](https://codeimage.dev/?ref=producthunt)
+
+## Misc
+- [Understand Unicode](https://dmitripavlutin.com/what-every-javascript-developer-should-know-about-unicode/)
