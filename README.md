@@ -41,3 +41,8 @@ List of cool resources related to web development and programming
 
 ## Misc
 - [Understand Unicode](https://dmitripavlutin.com/what-every-javascript-developer-should-know-about-unicode/)
+
+## Icons
+
+ - https://tabler-icons.io/
+ - https://react-icons.github.io/react-icons/
